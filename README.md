@@ -24,7 +24,7 @@ The goal of this challenge is to:
 ## ✅ Progress Tracker
 
 - [x] Day 1 - ✅ Completed
-- [ ] Day 2
+- [x] Day 2 - ✅ Completed
 - [ ] Day 3
 - ...
 - [ ] Day 30
