@@ -41,5 +41,5 @@ The goal of this challenge is to:
 
 ## 📬 Connect with Me
 
-- GitHub: (https://github.com/DsVirat)
+- X(Twitter): (https://x.com/ViratSi95841111)
 - LinkedIn: (https://www.linkedin.com/in/virats02/)
