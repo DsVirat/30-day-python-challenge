@@ -27,7 +27,8 @@ The goal of this challenge is to:
 - [x] Day 2 - ✅ Completed
 - [x] Day 3 - ✅ Completed
 - [x] Day 4 - ✅ Completed
-- [ ] Day 5 - 
+- [x] Day 5 - ✅ Completed
+- [ ] Day 6 - 
 - ...
 - [ ] Day 30
 
