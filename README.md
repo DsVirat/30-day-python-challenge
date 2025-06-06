@@ -32,7 +32,8 @@ The goal of this challenge is to:
 - [x] Day 7 - ✅ Completed
 - [x] Day 8 - ✅ Completed
 - [x] Day 9 - ✅ Completed
-- [ ] Day 10 - 
+- [x] Day 10 - ✅ Completed
+- [ ] Day 11 - 
 - ...
 - [ ] Day 30
 
