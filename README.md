@@ -36,7 +36,8 @@ The goal of this challenge is to:
 - [x] Day 11 - ✅ Completed
 - [x] Day 12 - ✅ Completed
 - [x] Day 13 - ✅ Completed
-- [ ] Day 14 - 
+- [x] Day 14 - ✅ Completed
+- [ ] Day 15 - 
 - ...
 - [ ] Day 30
 
