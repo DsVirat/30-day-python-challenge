@@ -41,7 +41,8 @@ The goal of this challenge is to:
 - [x] Day 16 - ✅ Completed
 - [x] Day 17 - ✅ Completed
 - [x] Day 18 - ✅ Completed
-- [ ] Day 19
+- [x] Day 19 - ✅ Completed
+- [ ] Day 20
 - ...
 - [ ] Day 30
 
