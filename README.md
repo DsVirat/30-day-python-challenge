@@ -42,7 +42,8 @@ The goal of this challenge is to:
 - [x] Day 17 - ✅ Completed
 - [x] Day 18 - ✅ Completed
 - [x] Day 19 - ✅ Completed
-- [ ] Day 20
+- [x] Day 20 - ✅ Completed
+- [ ] Day 21
 - ...
 - [ ] Day 30
 
