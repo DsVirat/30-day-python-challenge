@@ -43,7 +43,8 @@ The goal of this challenge is to:
 - [x] Day 18 - ✅ Completed
 - [x] Day 19 - ✅ Completed
 - [x] Day 20 - ✅ Completed
-- [ ] Day 21
+- [x] Day 21 - ✅ Completed
+- [ ] Day 22
 - ...
 - [ ] Day 30
 
