@@ -48,8 +48,9 @@ The goal of this challenge is to:
 - [x] Day 23 - ✅ Completed
 - [x] Day 24 - ✅ Completed
 - [x] Day 25 - ✅ Completed
-- [x] Day 26- ✅ Completed
-- [ ] Day 27
+- [x] Day 26 - ✅ Completed
+- [x] Day 27 - ✅ Completed
+- [ ] Day 28
 - ...
 - [ ] Day 30
 
