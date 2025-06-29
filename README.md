@@ -50,7 +50,8 @@ The goal of this challenge is to:
 - [x] Day 25 - ✅ Completed
 - [x] Day 26 - ✅ Completed
 - [x] Day 27 - ✅ Completed
-- [ ] Day 28
+- [x] Day 28 - ✅ Completed
+- [ ] Day 29
 - ...
 - [ ] Day 30
 
