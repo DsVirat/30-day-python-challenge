@@ -1,9 +1,15 @@
 import streamlit as st
 import base64
+import os
 
-# ✅ Background Image Function
 def set_background(image_file: str):
-    with open(image_file, "rb") as img_file:
+    abs_path = os.path.join(os.path.dirname(__file__), image_file)
+    
+    if not os.path.exists(abs_path):
+        st.warning(f"⚠️ Background image '{image_file}' not found. Skipping background setup.")
+        return
+
+    with open(abs_path, "rb") as img_file:
         encoded_string = base64.b64encode(img_file.read()).decode()
 
     st.markdown(
