@@ -1,19 +1,22 @@
 import streamlit as st
 import base64
+import os
 
-def set_background(image_path: str):
-    import os
-    if not os.path.exists(image_path):
-        st.warning(f"⚠️ Background image '{image_path}' not found in: {os.getcwd()}")
+def set_background(image_file: str):
+    abs_path = os.path.join(os.path.dirname(__file__), image_file)
+    
+    if not os.path.exists(abs_path):
+        st.warning(f"⚠️ Background image '{image_file}' not found. Skipping background setup.")
         return
 
-    with open(image_path, "rb") as img_file:
-        encoded = base64.b64encode(img_file.read()).decode()
+    with open(abs_path, "rb") as img_file:
+        encoded_string = base64.b64encode(img_file.read()).decode()
+
     st.markdown(
         f"""
         <style>
         .stApp {{
-            background-image: url("data:image/png;base64,{encoded}");
+            background-image: url("data:image/png;base64,{encoded_string}");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
