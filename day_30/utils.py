@@ -1,8 +1,13 @@
+import os
 import json
 
 def load_questions():
-    with open("questions.json", "r") as file:
-        return json.load(file)
+    base_dir = os.path.dirname(__file__)  # Get current file's directory (day_30/)
+    file_path = os.path.join(base_dir, "questions.json")
+    with open(file_path, "r") as file:
+        data = json.load(file)
+    return data
+
 
 def evaluate_answer(user_answer, keywords):
     user_answer = user_answer.lower()
